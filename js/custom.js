@@ -5,7 +5,7 @@
 $(window).load(function(){
     $('#loader-wrapper').delay(1700).fadeOut("slow"); // set duration in brackets    
 });
-
+ 
 // HOME BACKGROUND SLIDESHOW
 $(function(){
     jQuery(document).ready(function() {
